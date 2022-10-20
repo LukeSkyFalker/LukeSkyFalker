@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca Smaldone</h1>
-<h3 align="center">a 19 years old web developer and graphic designer</h3>
+<h3 align="center">a 19 years old web design and graphic designer</h3>
 
 - 🔭 I’m currently website [Site](https://lukeskyfalker.eu)
 
