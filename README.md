@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently website [Site](https://lukeskyfalker.eu)
 
-- 🌱 I’m currently learning **HTML, CSS, PHP, JAVASCRIPT**
+- 🌱 I’m currently learning **HTML, CSS**
 
 - 😊 I’m good with Twitch graphics and make discord servers
 
