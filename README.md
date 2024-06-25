@@ -1,5 +1,24 @@
-<h1 align="center">Hi 👋, I'm Luca Smaldone</h1>
-<h3 align="center">Web Designer</h3>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luca Smaldone</title>
+    <style>
+        @keyframes fadeInOut {
+            0%, 100% { opacity: 0; }
+            50% { opacity: 1; }
+        }
+
+        h1 {
+            text-align: center;
+            animation: fadeInOut 4s infinite;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hi 👋, I'm Luca Smaldone</h1>
+</body>
+</html><h3 align="center">Web Designer</h3>
 
 - 🔭 I’m currently working on my website [Site](https://lukeskyfalker.eu)
   
