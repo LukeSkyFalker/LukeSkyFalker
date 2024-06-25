@@ -2,10 +2,15 @@
 <h3 align="center">Web Designer</h3>
 
 - 🔭 I’m currently working on my website [Site](https://lukeskyfalker.eu)
+  
 - 🌱 I’m currently learning **HTML, CSS**
+  
 - 😊 I specialize in Twitch graphics and Discord server creation
+  
 - 📫 How to reach me: **info@lukeskyfalker.eu**
+  
 - 💵 Check out my service prices [here](https://lukeskyfalker.eu/#services)
+  
 - 🔗 Find all my social links [here](https://social.lukeskyfalker.eu)
 
 <h3 align="left">Languages and Tools:</h3>
