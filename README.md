@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,azure,github,,cs,css,html,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,github,,cs,css,html,js,bootstrap" />
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,ai" />
   </a>
