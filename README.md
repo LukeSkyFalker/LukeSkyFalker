@@ -3,8 +3,9 @@
 </h1>
 <h3 align="center">Web Designer</h3>
 
+- 🔭 I’m currently working on new site
 
-- 🔭 I’m currently working on my website [Site](https://lukeskyfalker.eu)
+- 👤 My website [Site](https://lukeskyfalker.eu)
   
 - 🌱 I’m currently learning **HTML, CSS**
   
