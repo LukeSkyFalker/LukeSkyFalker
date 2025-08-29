@@ -13,7 +13,7 @@
   
 - 📫 How to reach me: **info@lukeskyfalker.eu**
   
-- 💵 Check out my service prices [here](https://lukeskyfalker.eu/#services)
+- 💵 Check out my service on my [website](https://lukeskyfalker.eu/)
 
 <h3 align="left">Languages and Tools:</h3>
 <h2 align="center">Skills/Learning </h2>
