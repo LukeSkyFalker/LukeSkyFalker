@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **HTML, CSS**
   
-- 😊 I specialize in Twitch graphics and Discord server creation
+- 😊 I specialize in Twitch graphics, Discord server creation and landing page creation 
   
 - 📫 How to reach me: **info@lukeskyfalker.eu**
   
