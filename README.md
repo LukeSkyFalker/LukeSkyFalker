@@ -1,7 +1,10 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Luca+Smaldone" alt="Typing SVG" /></a>
 </h1>
+
 <h3 align="center">Web Designer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeSkyFalker&label=Profile%20views&color=red&style=flat-plastic" alt="LukeSkyFalker" /> </p>
 
 - 🔭 I’m currently working on new site
   
