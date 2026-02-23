@@ -5,8 +5,6 @@
 <h3 align="center">Web Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeSkyFalker&label=Profile%20views&color=red&style=flat-plastic" alt="LukeSkyFalker" /> </p>
-
-- 🔭 I’m currently working on new site
   
 - 🌱 I’m currently learning **HTML, CSS**
   
@@ -21,8 +19,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,css,html,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,wordpress,html,css,bootstrap" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,ps,ai,ae,pr" />
+    <img src="https://skillicons.dev/icons?i=vscode,ps,ai,ae,pr"/>
   </a>
 </p>
