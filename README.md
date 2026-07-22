@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeSkyFalker&label=Profile%20views&color=red&style=flat-plastic" alt="LukeSkyFalker" /> </p>
   
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **HTML, CSS, JS and PYTHON**
   
-- 😊 I specialize in Twitch graphics, Discord server creation and landing page creation 
+- 😊 My social media links and more [click here](https://link.lukeskyfalker.eu/)
   
 - 📫 How to reach me: **info@lukeskyfalker.eu**
   
-- 💵 Check out my service on my [website](https://lukeskyfalker.eu/)
+- 💵 Check out my service on my [website](https://lukeskyfalker.eu/#services)
 
 <h3 align="left">Languages and Tools:</h3>
 <h2 align="center">Skills/Learning </h2>
