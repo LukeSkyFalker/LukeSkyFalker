@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **HTML, CSS, JS and PYTHON**
   
-- 😊 My social media links and more [click here](https://link.lukeskyfalker.eu/)
+- 😊 My social media links and more [click here](https://links.lukeskyfalker.eu/)
   
 - 📫 How to reach me: **info@lukeskyfalker.eu**
   
